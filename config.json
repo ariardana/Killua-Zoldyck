@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "fcd4dc4156ad"
   },
   "options": {
     "autoRead": false,
@@ -17,5 +17,5 @@
     "62812xxx"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Azusa"
 }
